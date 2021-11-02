@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "serviceName": "Child Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "duration":"1 Hour",
+        "serviceFee": 1000,
+        "img":"https://mid-delyouth.org/wp-content/uploads/2017/09/young-boy-talking-with-counselor-at-home-PDWTXAH-1024x683.jpg"
+    
+    },
+    {
+        "id":2,
+        "serviceName": "Psychological Counselling",
+        "description" :"The treatment of mental and emotional disorders through the use of psychological techniques designed to encourage communication of conflicts and insight into problems, with the goal being relief of symptoms, changes in behavior leading to improved social and vocational functioning, and personality growth.",
+        "serviceFee": 1500,
+        "duration":"1 Hour",
+        "img":"https://5.imimg.com/data5/OQ/XY/GLADMIN-61385332/m-sc-counseling-psychology-course-500x500.png"
+    
+    },
+    {
+        "id":3,
+        "serviceName": "Group Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 5000,
+        "duration":"1.5 Hour",
+        "img":"https://morganwalkercounselling.co.uk/wp-content/uploads/2016/02/Depression-Group.jpg"
+    
+    },
+    {
+        "id":4,
+        "serviceName": "Corporate Counseling",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 3000,
+        "duration":"2.5 Hour",
+        "img":"https://morganwalkercounselling.co.uk/wp-content/uploads/2016/02/Depression-Group.jpg"
+    
+    },
+    {
+        "id":5,
+        "serviceName": "One to One Session",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 2500,
+        "duration":"1 Hour",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQM_wmHlimy8qRZDURY5w0ELZtbTHz0pnjPLoxOYhtmG0OOlmA1kp6grf-zr_817y82zw&usqp=CAUS"
+    
+    },
+    {
+        "id":6,
+        "serviceName": "Online Session",
+        "description" :"Child counseling is a type of therapy that focuses on young children, teens, and adolescents with one or more mental illnesses. It also provides aid to youths, who have experienced trauma, and/or who are experiencing a dysfunctional or stressful home environment.",
+        "serviceFee": 1000,
+        "duration":"1 Hour",
+        "img":"https://images.theconversation.com/files/329860/original/file-20200422-47815-hmf6rw.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C8617%2C5766&q=45&auto=format&w=926&fit=clip"
+    
+    }
+]

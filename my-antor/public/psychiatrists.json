@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Dr. Munmum Jahan",
+        "designation": "Psychiatrist",
+        "photo": "https://res.cloudinary.com/lifespring/image/upload/v1/media/doctors/3_rffbzv"
+        
+    },
+    {
+        "id":2,
+        "name":"Yahia Md. Amin",
+        "designation": "Psychologist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/yahia-amin.jpg"
+        
+    },
+    {
+        "id":3,
+        "name":"Dr. Afroza Jesmin",
+        "designation": "Dermatologist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/afroza-jesmin.jpg"
+        
+    },
+    {
+        "id":4,
+        "name":"Dr. Rubaiyat Ferdush",
+        "designation": "Psychiatrist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/rubaiyat-ferdush.jpg"
+        
+    },
+    {
+        "id":5,
+        "name":"Ms. Lushanta Hanif",
+        "designation": "Psychologist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/lushanta-hanif.jpg"
+        
+    },
+    {
+        "id":6,
+        "name":"Dr. Sayedul Ashraf",
+        "designation": "Psychiatrist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/sayedul-ashraf.jpg"
+        
+    },
+    {
+        "id":7,
+        "name":"Sonia Hasan",
+        "designation": "Developmental Therapist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/sonia-hasan.jpg"
+        
+    },
+    {
+        "id":8,
+        "name":"Dr. Golam Mostafa Milon",
+        "designation": "Psychiatrist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/golam-mostafa.jpg"
+        
+    },
+    {
+        "id":9,
+        "name":"Md. Shafikuzzaman Sajib",
+        "designation": "Psychologist",
+        "photo": "https://lifespringcdn.s3.amazonaws.com/wp-content/uploads/2021/09/shafikuzzaman-sajib.jpg"
+        
+    }
+   
+]
